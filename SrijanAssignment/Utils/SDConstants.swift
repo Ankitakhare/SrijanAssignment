@@ -1,9 +1,4 @@
-//
-//  SDConstants.swift
-//  iTunesSearch
-//
-//  Created by rails on 18/08/21.
-//
+
 
 import Foundation
 import UIKit
