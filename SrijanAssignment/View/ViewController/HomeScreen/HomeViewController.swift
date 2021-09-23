@@ -1,9 +1,3 @@
-//
-//  HomeViewController.swift
-//  ChocoAssignment
-//
-//  Created by ankita khare on 23/09/21.
-//
 
 import UIKit
 

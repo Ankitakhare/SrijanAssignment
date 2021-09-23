@@ -1,9 +1,4 @@
-//
-//  LoginViewController.swift
-//  ChocoAssignment
-//
-//  Created by rails on 09/09/21.
-//
+
 
 import UIKit
 
