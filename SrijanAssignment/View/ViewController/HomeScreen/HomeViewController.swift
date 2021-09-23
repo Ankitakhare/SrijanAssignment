@@ -17,7 +17,7 @@ class HomeViewController: UIViewController, UITextFieldDelegate {
         self.textHello.textColor = UIColor.link
         self.textHello.isUserInteractionEnabled = false
         if let name = UserDefaults.standard.string(forKey: "username"){
-            self.textHello.text = "Hello" + name
+            self.textHello.text = "Hello" + "  " + name
         }
         
     }
